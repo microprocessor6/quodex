@@ -1,2 +1,2 @@
-# quodex
-Quodex
+# Virani Telecom
+Virani Telecom HO
